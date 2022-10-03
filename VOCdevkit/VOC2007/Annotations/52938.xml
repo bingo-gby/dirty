@@ -1,0 +1,26 @@
+<annotation>
+	<folder>52901</folder>
+	<filename>52900.jpg</filename>
+	<path>F:\GraduateFile\datasets_result\52901\52900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dirty</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>264</ymin>
+			<xmax>495</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>
