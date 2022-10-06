@@ -15,7 +15,7 @@ Datasets:   https://github.com/ultralytics/yolov5/tree/master/data
 Tutorial:   https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
 """
 import os
-os.system('pip install -r requirements.txt')
+os.system('pip install -r gemini/code/requirements.txt')
 os.system('pip3 install pyyaml')
 import argparse
 import math
